@@ -1,9 +1,0 @@
-
-java5 
-line3a
-line3b
-<<<<<<< HEAD
-line4b
-=======
-line4a
->>>>>>> f6d2f18c326c6fb51b44d6b83f3a0493cea0411f
